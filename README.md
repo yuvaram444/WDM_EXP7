@@ -93,7 +93,7 @@ plt.show()
 ```
 
 ### Output:
-
+![alt text](image.png)
 
 
 ### Result:
